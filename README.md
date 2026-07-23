@@ -127,7 +127,7 @@ Lynch:   35%
 
 * Yahoo Finance
 * Market data APIs
-* Fear & Greed Index
+* Fear & Greed Index(Alternative.me)
 
 ### AI
 
